@@ -1,5 +1,5 @@
 # my_first_repo
-Practice account for learning Git
+# Practice account for learning Git
 There is only one file called README.md , where md is Markdown-a popular method for creating documentation because it's a shorthand for creating HTML pages.
 This allows me to do things like creating titles and texts.
 I can insert images and various other webpage elements.
